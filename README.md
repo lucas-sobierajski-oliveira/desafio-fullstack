@@ -15,7 +15,7 @@ O layout você encontra em: https://www.figma.com/file/XlARo5zdyBVeF3EFSkGSbr/Te
 - React.js
 - Styled Components
 
-## Requisitos Extras
+## Diferenciais
 
 - Testes automatizados
 - Clean architecture
