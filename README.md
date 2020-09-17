@@ -32,6 +32,7 @@ O layout você encontra em: https://www.figma.com/file/XlARo5zdyBVeF3EFSkGSbr/Te
 
 ## Como devo entregar o desafio?
 
+- Dê um fork no projeto
 - Crie uma branch a partir da branch master deste respositório
 - Implemente o desafio de código
 - Faça um push de sua branch com o desafio implementado
