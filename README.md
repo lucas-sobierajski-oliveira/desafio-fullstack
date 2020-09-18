@@ -41,7 +41,7 @@ yarn start
 
 ### Conceitos:
   - TDD (Test Driven Development)
-  - DDD (Design Driven Development)
+  - DDD (Domain Driven Design)
   - **S****O****L**I**D**
     - SRP : Se deu com o isolamento das funcionalidades de cada bloco, módulo, classe ou função.
     - OCP : Para se modificar alguma das funcionalidades simplesmente criaria uma nova implementação para tal coisa, não violando o princípio.
