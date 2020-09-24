@@ -11,7 +11,7 @@ export class Users {
   @Column('varchar', { nullable: false })
   lastname: string;
 
-  @Column('varchar', { nullable: false })
+  @Column('varchar', { nullable: false, unique: true })
   email: string;
 
   @Column('varchar', { nullable: false })
