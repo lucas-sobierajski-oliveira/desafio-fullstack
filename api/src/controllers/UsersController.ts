@@ -1,5 +1,4 @@
 import { Request, Response } from 'express';
-import { getCustomRepository } from 'typeorm';
 import * as Yup from 'yup';
 
 import UsersRepository from '../repositories/UsersRepository';
